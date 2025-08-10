@@ -5,8 +5,6 @@ DrugHub: Market URL:
 
 http://drughubxkkbakcvetijzpdji7c73bdrkc2cjczyzphpv4zixqoewadyd.onion
 
-image
-
 This is an educational platform designed solely for informational purposes, offering a look into the dark web. We do not collect commissions or kickbacks from market affiliate links. We are not affiliated with any legal entities and do not endorse or promote illegal activities. Prioritize your safety and security.
 Utilizing the DrugHub Marketplace Onion Link
 
@@ -15,6 +13,3 @@ For secure and anonymous browsing, users frequently seek the DrugHub onion addre
 To avoid potential scams, it is essential to only use trusted DrugHub links and mirrors. Mirrors function as alternative access points, ensuring continuous access to the site, particularly if the main URL is blocked or restricted. For transactions, Monero (XMR) is a popular and secure payment method on DrugHub, offering a higher level of anonymity. Confirm your DrugHub marketplace onion link carefully.
 
 If your aim is to explore everything this darknet marketplace provides, make sure you make security a priority and take the necessary precautions when browsing and making purchases using the Drughub marketplace onion link.
-
-image
-image
